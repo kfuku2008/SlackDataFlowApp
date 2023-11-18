@@ -1,0 +1,2 @@
+# SlackDataFlowApp
+Slackからのデータ入力を介してスプレッドシートへ蓄積・LookerStudioでの可視化・LSレポートをSlackへ投稿
